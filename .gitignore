@@ -1,3 +1,9 @@
 *.txt
 *.json
 *.csv
+notasHTML.py
+notasObjetos.py
+PriemasNotas.py
+WebScrapingInicio.py
+WebScrapingNivel1.py
+/Documentacion
